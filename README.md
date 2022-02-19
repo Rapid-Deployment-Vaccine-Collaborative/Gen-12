@@ -1,5 +1,6 @@
 # Gen-12
-SARS-CoV-2 Peptide Vaccine, Gen 12 
+SARS-CoV-2 Peptide Vaccine, Gen 12
+
 _(version 5-1-0. Published January 29, 2022)_
 
 **TERMS OF USE/INFORMED CONSENT (updated 2021-04-30)**
