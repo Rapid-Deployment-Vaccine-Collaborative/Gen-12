@@ -1,5 +1,5 @@
 # Gen-12
-SARS-CoV-2 Peptide Vaccine, Gen 12 _(Published January 29, 2022. Version 5-1-0)_
+SARS-CoV-2 Peptide Vaccine, Gen 12 _(Published January 29, 2022: Version 5-1-0)_
 
 Latest versions always hosted on https://radvac.org/white-paper
 
